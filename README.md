@@ -2,7 +2,7 @@
 
 ### About the project
 
-I have worked in this project with professor Aldo Von Wangenheim and other contributors, such as PET-MA and Ampera Racing, to develop a self driving system for non-paved or low quality roads. 
+I have worked in 2020 on this project with professor Aldo Von Wangenheim and other contributors, such as PET-MA and Ampera Racing, to develop a self driving system for non-paved or low quality roads. 
 
 This is one example of what we achieved during this project: https://www.youtube.com/watch?v=Vs3ZOUOXXh0&list=PLmDIGfkfgKy2085gVEJbKbRrVP86CDD95&index=6.
 
